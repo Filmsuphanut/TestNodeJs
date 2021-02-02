@@ -1,7 +1,7 @@
 <template>
 
 
-  <v-app class="green">
+  <v-app>
     <!--
     <v-app-bar
       app
