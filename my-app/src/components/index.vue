@@ -1,9 +1,9 @@
 <template>
-    <v-container>
+  <v-container>
     <div class = "Home">
-        <h1 class = "red">FILMSUPHANUT</h1>
+      <h1 class = "red">FILMSUPHANUT</h1>
     </div>
-    </v-container>
+  </v-container>
 
  
 </template>
