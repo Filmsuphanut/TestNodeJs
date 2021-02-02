@@ -1,7 +1,7 @@
 <template>
   <v-container>
     <div class = "Home">
-      <h1 class = "red">FILMSUPHANUT</h1>
+      <h1 class = "red"><center>THIS IS TEST SERVER</center></h1>
     </div>
   </v-container>
 
