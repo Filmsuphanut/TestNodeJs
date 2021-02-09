@@ -2,6 +2,12 @@
 <template>
 
     <v-container>
+
+      
+<div id="app">
+  {{ message }}
+</div>
+
       <div>
         <h1 class="primary"><center>THIS IS TEST SERVER</center></h1>
       </div>
@@ -10,12 +16,7 @@
         <span class="white--text">Lorem ipsum</span>
       </div>
 
-      <div v-if="Math.random() > 0.5">
-        Now you see me
-      </div>
-      <div v-else>
-        Now you don't
-      </div>
+
 
 
   </v-container>
